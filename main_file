@@ -48,8 +48,8 @@ speed_x = 3
 speed_y = 3
 
 font.init()
-font = font.SysFont('Arial', 70)
-lose = font.render('Press (f) to respect left', True, (180,0,0))
+font = font.SysFont('Arial', 58)
+lose = font.render('Press (r) to respect left', True, (180,0,0))
 losed = font.render('Press (r) to respect right', True, (180,0,0))
 
 #font = font.SysFont('Arial', 70)
